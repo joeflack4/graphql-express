@@ -1,0 +1,9 @@
+.idea/
+_dev/
+_env/
+dist/
+build/
+node_modules/
+test/files/ignored/*
+*/test/files/ignored/*
+*.DS_Store
